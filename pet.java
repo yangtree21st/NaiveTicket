@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class pet
+public class Pet
 {
     // instance variables - replace the example below with your own
     private int age;
@@ -14,7 +14,7 @@ public class pet
     /**
      * Constructor for objects of class pet
      */
-    public pet()
+    public Pet()
     {
         // initialise instance variables
         this.petName = "contigo";
